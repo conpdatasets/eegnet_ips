@@ -1,0 +1,172 @@
+{
+    "title": "AuditoryMemory",
+    "description": "We investigated the causal relationship between brain oscillations and behavior by applying theta-rhythmic TMS combined with EEG over the MEG-identified target (left intraparietal sulcus) during the silent interval between the two stimuli. Rhythmic TMS entrained theta oscillation and boosted participants’ accuracy. TMS-induced oscillatory entrain-ment scaled with behavioral enhancement, and both gains varied with participants’ baseline abilities. These effects were not seen for a melody-comparison control task and were not observed for arrhythmic TMS. These data establish theta activity in the dorsal stream as causally related to memory manipulation.",
+    "dates": [
+        {
+            "date": "2015-02-20 00:00:00",
+            "type": {
+                "value": "start date"
+            }
+        },
+        {
+            "date": "2015-10-30 00:00:00",
+            "type": {
+                "value": "end date"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "name": "McGill University"
+	},
+	{
+		"name": "Philippe Albouy",
+		"roles": [
+			{
+				"value": "Principal Investigator"
+			}
+		]
+	}
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "electroencephalography",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0741211"
+            }
+        }
+    ],
+    "version": "1.0",
+    "privacy": "registered",
+    "distributions": [
+        {
+            "formats": [
+                "EDF",
+                "JSON"
+            ],
+            "size" : 9.2,
+            "unit" : {
+                "value": "GB"
+            },
+            "access" : {
+                "landingPage" : "",
+				"authorizations": [
+					{
+						"value": "private"
+					}
+				]
+            }
+        }
+    ],
+    "isAbout": [
+		{
+      		"name": "Homo sapiens",
+     		"identifier": {
+        		"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        		"identifierSource": "NCBI Taxonomy Database"
+			}
+    	}
+    ],
+    "spatialCoverage": [
+        {
+            "name": "North America",
+            "description": ""
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "CC-BY",
+            "version": "4.0"
+        }
+    ],
+	"primaryPublications" : [
+		{
+            "identifier" : {
+				"identifier": "https://www.cell.com/neuron/pdfExtended/S0896-6273(17)30198-8"
+			}
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "eegnet-logo_0.png"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "984"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "17"
+				}
+			]
+		},
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+		{
+			"category": "registrationPage",
+      		"values": [
+       			 {
+          			"value": "https://eegnet.loris.ca/"
+        		}
+			]
+    	},
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
+    ]
+}
