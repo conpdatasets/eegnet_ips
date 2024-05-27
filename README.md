@@ -3,7 +3,7 @@
 AUD
 
 **Expected experimentation period**\
-Start date: 20/02/2015
+Start date: 20/02/2015\
 End date: 30/10/2015
 
 **Experimental location**\
