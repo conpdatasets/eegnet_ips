@@ -1,6 +1,6 @@
 # Auditory Memory
 **Project ID**\
-VIS
+AUD
 
 **Expected experimentation period**\
 Start date: 20/02/2015
