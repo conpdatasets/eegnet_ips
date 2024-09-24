@@ -1,6 +1,6 @@
-# Auditory Memory
+# Intraparietal Sulcus and Manipulation of Auditory Information
 **Project ID**\
-AUD
+IPS
 
 **Expected experimentation period**\
 Start date: 20/02/2015\
