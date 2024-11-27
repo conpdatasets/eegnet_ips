@@ -43,8 +43,14 @@ n/a
 22. S  4
 23. S  6
 
-**ResearchPaper**\
+**Primary Publication**\
+Philippe Albouy, Aurélien Weiss, Sylvain Baillet, Robert J. Zatorre; Selective Entrainment of Theta Oscillations in the Dorsal Stream Causally Enhances Auditory Working Memory Performance. Volume 94, Issue 1, P193-206.E5, April 05, 2017. doi: 10.1016/j.neuron.2017.03.015
+
+**Research Paper Link**\
 https://www.cell.com/neuron/pdfExtended/S0896-6273(17)30198-8
+
+**Acknowledgements**\
+Quebec bio-Imaging Network, Natural Sciences and Engineering, Research Council of Canada, Canadian Institute for Health Research, International Development Research Centre
 
 **Contact Person**\
 Philippe Albouy: philippe.albouy@psy.ulaval.ca\
