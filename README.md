@@ -52,3 +52,5 @@ Quebec bio-Imaging Network, Natural Sciences and Engineering Research Council of
 **Contact Person**\
 Philippe Albouy: philippe.albouy@psy.ulaval.ca\
 Corentin Labelle: corentin.labelle.1@ulaval.ca
+
+Data dissemination and standardization supported by [EEGNet.Loris.ca](https://eegnet.loris.ca)
