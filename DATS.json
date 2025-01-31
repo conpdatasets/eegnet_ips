@@ -95,13 +95,13 @@
 	},
 	{
 		"value": "brain networks"
-        },		
+        },
 	{
 		"value": "memory"
-        },		
+        },
 	{
-		"value": "rhytmic transcranial magnetic stimulation"
-        },		
+		"value": "rhythmic transcranial magnetic stimulation"
+        },
 	{
 		"value": "theta oscillation"
         }
@@ -175,6 +175,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+		{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
