@@ -142,7 +142,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "984"
+					"value": "914"
 				}
 			]
 		},
@@ -175,6 +175,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGNet"
                 }
             ]
         },
