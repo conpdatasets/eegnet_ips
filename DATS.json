@@ -161,7 +161,15 @@
                     "value": "McGill University"
                 }
             ]
-        },
+        }, 
+		{
+      		"category": "downloadOptions",
+      		"values": [
+        		{
+          			"value": "offsite"
+        		}
+      		]
+    	},
         {
             "category": "origin_city",
             "values": [
